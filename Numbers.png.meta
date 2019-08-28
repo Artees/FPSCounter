@@ -1,0 +1,2609 @@
+fileFormatVersion: 2
+guid: 1d660a5e37aede94f8ab018514edb196
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6629531029891648246
+    second: Numbers_0
+  - first:
+      213: -4217592887472625829
+    second: Numbers_1
+  - first:
+      213: -4412911677491635961
+    second: Numbers_2
+  - first:
+      213: -6395529614303463221
+    second: Numbers_3
+  - first:
+      213: -4417143251372694878
+    second: Numbers_4
+  - first:
+      213: 728446850243192315
+    second: Numbers_5
+  - first:
+      213: 5108088467900000851
+    second: Numbers_6
+  - first:
+      213: -519400735672398794
+    second: Numbers_7
+  - first:
+      213: -1344653293438560547
+    second: Numbers_8
+  - first:
+      213: 849386610096671516
+    second: Numbers_9
+  - first:
+      213: -1439962401544170818
+    second: Numbers_10
+  - first:
+      213: -7250221663623815539
+    second: Numbers_11
+  - first:
+      213: -8393552316115916138
+    second: Numbers_12
+  - first:
+      213: -1709508057472765158
+    second: Numbers_13
+  - first:
+      213: 1571823852025767750
+    second: Numbers_14
+  - first:
+      213: 5003204304478133465
+    second: Numbers_15
+  - first:
+      213: -1530400334605531731
+    second: Numbers_16
+  - first:
+      213: 5278987878822201894
+    second: Numbers_17
+  - first:
+      213: -3215136061973271139
+    second: Numbers_18
+  - first:
+      213: -1366181965666896206
+    second: Numbers_19
+  - first:
+      213: 8060736529220523392
+    second: Numbers_20
+  - first:
+      213: -8330609692363120384
+    second: Numbers_21
+  - first:
+      213: 2038824723306289309
+    second: Numbers_22
+  - first:
+      213: 4798864308968896667
+    second: Numbers_23
+  - first:
+      213: 679925491610277207
+    second: Numbers_24
+  - first:
+      213: 4784750222968227613
+    second: Numbers_25
+  - first:
+      213: 4910470149802833004
+    second: Numbers_26
+  - first:
+      213: 2829407147324506526
+    second: Numbers_27
+  - first:
+      213: 2302026287296262593
+    second: Numbers_28
+  - first:
+      213: -2677085107020186533
+    second: Numbers_29
+  - first:
+      213: -21509003728473464
+    second: Numbers_30
+  - first:
+      213: 8949982844875024100
+    second: Numbers_31
+  - first:
+      213: -3179953704994366758
+    second: Numbers_32
+  - first:
+      213: -4636003498900948019
+    second: Numbers_33
+  - first:
+      213: 834339678276174480
+    second: Numbers_34
+  - first:
+      213: -7041614542626119953
+    second: Numbers_35
+  - first:
+      213: -7970187427464935844
+    second: Numbers_36
+  - first:
+      213: 3258159141443545570
+    second: Numbers_37
+  - first:
+      213: 4274954377903267010
+    second: Numbers_38
+  - first:
+      213: 2387789543101180539
+    second: Numbers_39
+  - first:
+      213: 240442208766931034
+    second: Numbers_40
+  - first:
+      213: -3126472412265243195
+    second: Numbers_41
+  - first:
+      213: 8979001226168364764
+    second: Numbers_42
+  - first:
+      213: 5082072211796902995
+    second: Numbers_43
+  - first:
+      213: 8321609301020613271
+    second: Numbers_44
+  - first:
+      213: 6020475944977205979
+    second: Numbers_45
+  - first:
+      213: 6942274572948010105
+    second: Numbers_46
+  - first:
+      213: -7460150755833374274
+    second: Numbers_47
+  - first:
+      213: -4969559389147878165
+    second: Numbers_48
+  - first:
+      213: 392338608415060058
+    second: Numbers_49
+  - first:
+      213: 1855698895875931346
+    second: Numbers_50
+  - first:
+      213: -6801351025405459227
+    second: Numbers_51
+  - first:
+      213: -8135135195697366290
+    second: Numbers_52
+  - first:
+      213: 3186698398131334453
+    second: Numbers_53
+  - first:
+      213: 3877221799878081440
+    second: Numbers_54
+  - first:
+      213: -5984842019731101219
+    second: Numbers_55
+  - first:
+      213: 1080655420506159013
+    second: Numbers_56
+  - first:
+      213: 5965281686576950553
+    second: Numbers_57
+  - first:
+      213: 4508708100752418075
+    second: Numbers_58
+  - first:
+      213: -86312489055483510
+    second: Numbers_59
+  - first:
+      213: -4464365827881524659
+    second: Numbers_60
+  - first:
+      213: -8510198762934382078
+    second: Numbers_61
+  - first:
+      213: -6320013583945157165
+    second: Numbers_62
+  - first:
+      213: 7437979266076710365
+    second: Numbers_63
+  - first:
+      213: -294358566489015492
+    second: Numbers_64
+  - first:
+      213: 113555604812439259
+    second: Numbers_65
+  - first:
+      213: 4902816437963344120
+    second: Numbers_66
+  - first:
+      213: 2707037610417076014
+    second: Numbers_67
+  - first:
+      213: -2639508191446786540
+    second: Numbers_68
+  - first:
+      213: 5671816610771765828
+    second: Numbers_69
+  - first:
+      213: 3247399716836258483
+    second: Numbers_70
+  - first:
+      213: 189593987771994740
+    second: Numbers_71
+  - first:
+      213: 1507938669475413457
+    second: Numbers_72
+  - first:
+      213: 6738498326870152916
+    second: Numbers_73
+  - first:
+      213: 7310088681487102824
+    second: Numbers_74
+  - first:
+      213: 2387382566403016896
+    second: Numbers_75
+  - first:
+      213: -1527056069948597871
+    second: Numbers_76
+  - first:
+      213: 3520831037431966262
+    second: Numbers_77
+  - first:
+      213: 5713100860359615261
+    second: Numbers_78
+  - first:
+      213: -3577332756167284639
+    second: Numbers_79
+  - first:
+      213: -288189326219684729
+    second: Numbers_80
+  - first:
+      213: 2550194474288673174
+    second: Numbers_81
+  - first:
+      213: 6241569551140049278
+    second: Numbers_82
+  - first:
+      213: -2455499384120771773
+    second: Numbers_83
+  - first:
+      213: -5698035630436154206
+    second: Numbers_84
+  - first:
+      213: -1113556579945335925
+    second: Numbers_85
+  - first:
+      213: 274874584751300529
+    second: Numbers_86
+  - first:
+      213: -9215436177119642851
+    second: Numbers_87
+  - first:
+      213: 3273900217441178789
+    second: Numbers_88
+  - first:
+      213: 8271425775236676060
+    second: Numbers_89
+  - first:
+      213: -7877876645482016411
+    second: Numbers_90
+  - first:
+      213: -1600639642860755778
+    second: Numbers_91
+  - first:
+      213: 3156787214138103625
+    second: Numbers_92
+  - first:
+      213: 4610910646018417316
+    second: Numbers_93
+  - first:
+      213: -7347013291494853250
+    second: Numbers_94
+  - first:
+      213: 3534762764878734426
+    second: Numbers_95
+  - first:
+      213: 2427781677045334743
+    second: Numbers_96
+  - first:
+      213: -1416628597840527488
+    second: Numbers_97
+  - first:
+      213: -3371907575957278567
+    second: Numbers_98
+  - first:
+      213: 6227048263844635958
+    second: Numbers_99
+  - first:
+      213: -5040308847609366796
+    second: Numbers_100
+  - first:
+      213: -5412996331096024586
+    second: Numbers_101
+  - first:
+      213: -6679695007607823726
+    second: Numbers_102
+  - first:
+      213: 6297448213909640169
+    second: Numbers_103
+  - first:
+      213: -1800018795667814105
+    second: Numbers_104
+  - first:
+      213: -651031761346217128
+    second: Numbers_105
+  - first:
+      213: 1066523382992663181
+    second: Numbers_106
+  - first:
+      213: 2029908099760737030
+    second: Numbers_107
+  - first:
+      213: 2581380086089155911
+    second: Numbers_108
+  - first:
+      213: -675495757613747926
+    second: Numbers_109
+  - first:
+      213: 4976209321060167027
+    second: Numbers_110
+  - first:
+      213: -9015073984563944172
+    second: Numbers_111
+  - first:
+      213: 3407923727306013638
+    second: Numbers_112
+  - first:
+      213: -5024621493009703895
+    second: Numbers_113
+  - first:
+      213: 7809092011055634459
+    second: Numbers_114
+  - first:
+      213: -5581231122067388321
+    second: Numbers_115
+  - first:
+      213: 9025908106518063470
+    second: Numbers_116
+  - first:
+      213: -5644394592273791292
+    second: Numbers_117
+  - first:
+      213: -2380279101376322734
+    second: Numbers_118
+  - first:
+      213: -2669119770305196477
+    second: Numbers_119
+  - first:
+      213: 1298102487632392711
+    second: Numbers_120
+  - first:
+      213: -841119117861250653
+    second: Numbers_121
+  - first:
+      213: 8092525508473421680
+    second: Numbers_122
+  - first:
+      213: -4128610163255272318
+    second: Numbers_123
+  - first:
+      213: -7848677130688124284
+    second: Numbers_124
+  - first:
+      213: -3709273612712844201
+    second: Numbers_125
+  - first:
+      213: 7538018575913998714
+    second: Numbers_126
+  - first:
+      213: 8950277699795703187
+    second: Numbers_127
+  - first:
+      213: 8340740526877732693
+    second: Numbers_128
+  - first:
+      213: 3961032501878180052
+    second: Numbers_129
+  - first:
+      213: 2447359259109994372
+    second: Numbers_130
+  - first:
+      213: -1171678680798496436
+    second: Numbers_131
+  - first:
+      213: 1510937005756954776
+    second: Numbers_132
+  - first:
+      213: -4976778515822207265
+    second: Numbers_133
+  - first:
+      213: 4911005869622163910
+    second: Numbers_134
+  - first:
+      213: -41978848945391495
+    second: Numbers_135
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Numbers_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa64919f789bc244f95a82ec991d2478
+      internalID: -6629531029891648246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 944
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6001c7f0e9f920b41b267bf0828d1b7b
+      internalID: -4217592887472625829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 944
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bfe6ed2d9802748bb1209c3ae88795
+      internalID: -4412911677491635961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 944
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536cf6756b9522345b7606eee9e33637
+      internalID: -6395529614303463221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 944
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b494e750d501ede48ba467bc18381c17
+      internalID: -4417143251372694878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 944
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea83cdf4f86a717449aad5c1acc95f79
+      internalID: 728446850243192315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 944
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e70d72648500c45ad56fa766f3c4d2
+      internalID: 5108088467900000851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 944
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a90c14e11622954fb7c4ed1a4a5f693
+      internalID: -519400735672398794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 944
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca05f928c6d82745a5fcc1c40f1ff6b
+      internalID: -1344653293438560547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 944
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78e506b511d71d43bfc6f588cdc49c0
+      internalID: 849386610096671516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00337209e45afa4587d0789ecba952b
+      internalID: -1439962401544170818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981b1b8516faff9428ff5ae2b6ed68b7
+      internalID: -7250221663623815539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62da8f995c7fa1d4893ffa01a6026f87
+      internalID: -8393552316115916138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 864
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558471d61960bfe4784065f32494f20e
+      internalID: -1709508057472765158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 864
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a251a3aecbb853348b2bafa00fd3c95d
+      internalID: 1571823852025767750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 864
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c313229efbbe8ec4aaf51cb2a0cc4b38
+      internalID: 5003204304478133465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 864
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63e43ace90f64f48b087e151617ba0c
+      internalID: -1530400334605531731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_17
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 864
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5649d62a6345e794488fab8912575764
+      internalID: 5278987878822201894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 864
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d609efa8e3184d4ab8542cde346961b
+      internalID: -3215136061973271139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_19
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 864
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39eaeb4d3d056c48ab9442cc67cffd2
+      internalID: -1366181965666896206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44d9a4a0c0536d438b77fd20c090253
+      internalID: 8060736529220523392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 784
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa7198379e707f42928b836a2299221
+      internalID: -8330609692363120384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 784
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bdeacd21b0c004e86ecc5840de3265
+      internalID: 2038824723306289309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 784
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfa66da6328b384d9d06c84ae702cf1
+      internalID: 4798864308968896667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 784
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a52ca67586b9e241a414b584268bf83
+      internalID: 679925491610277207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 784
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a55e3b5fb3ce04fbab3baa11149040
+      internalID: 4784750222968227613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 784
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d995dd247e6b34c9e0782356402a50
+      internalID: 4910470149802833004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 784
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47b3e0eb8d05e04c8ca80435112faa6
+      internalID: 2829407147324506526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 784
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9652194299d0bca4cba6fcdf67688a12
+      internalID: 2302026287296262593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_29
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 784
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfaf794db25d3e41b095be855eb82cd
+      internalID: -2677085107020186533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c39c42932ef064409695acd1502dbe1
+      internalID: -21509003728473464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5946c29291c32f4ea8c66dff7dd3910
+      internalID: 8949982844875024100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3da481d806ebdf4288cb775781e1396
+      internalID: -3179953704994366758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 704
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd43b7119502357438a6f9c6c341b9a7
+      internalID: -4636003498900948019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a079127c705a174aba95c289bb3a355
+      internalID: 834339678276174480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 704
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5808082ede129064cbaa7b7c772feece
+      internalID: -7041614542626119953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c97502bdca7c64c96b2fecfc636843
+      internalID: -7970187427464935844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_37
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 704
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f8614fe480e4e45bda41f7f215aa3a
+      internalID: 3258159141443545570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108453eada158724083860c984171bd3
+      internalID: 4274954377903267010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_39
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 704
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d498e1b22722047ae011f77ee78010
+      internalID: 2387789543101180539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa42ce6e9e86144ea50589dbdf35a07
+      internalID: 240442208766931034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19c36ffad5c7fb46b64160f9b31e2aa
+      internalID: -3126472412265243195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8f92bddcd74f54d92edeec453943c3
+      internalID: 8979001226168364764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315b61eb302ac3947b3dd3ae395fb021
+      internalID: 5082072211796902995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404ad48c5f19a6c489449d43c348e10c
+      internalID: 8321609301020613271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c2e638501a86a4b8e788868b8ae11b
+      internalID: 6020475944977205979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_46
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282d43e863fb09e41952c0c54ee05881
+      internalID: 6942274572948010105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_47
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3625cc1cef8c64392cfa4a6f744037
+      internalID: -7460150755833374274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 624
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c0748de2690be498567f5350f4b2a2
+      internalID: -4969559389147878165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_49
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 624
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b00d862514c6ad4e88bbaae4f5bf5f4
+      internalID: 392338608415060058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db34d417874393b448af7240194aa3ef
+      internalID: 1855698895875931346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9697c626f20a2e144a87f5381510827a
+      internalID: -6801351025405459227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeec0bca3197c4441a66c7df06b4233e
+      internalID: -8135135195697366290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 544
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46414637c4a0bf145835bca3f58bacbe
+      internalID: 3186698398131334453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0504a0fdecb1349b9fbde844509fa4
+      internalID: 3877221799878081440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_55
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 544
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa70fbb1094dd024f9ceea790a4b4110
+      internalID: -5984842019731101219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_56
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 544
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a285436ac77c489488ca20392029f142
+      internalID: 1080655420506159013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_57
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 544
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c337ebc16491ac6408368ede2d4cffe7
+      internalID: 5965281686576950553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 544
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482cdb9fd02b4ba46a4aa6609bc7774a
+      internalID: 4508708100752418075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_59
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 544
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac33cea7384af741aeaae6fc3c67262
+      internalID: -86312489055483510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07feedbd5a8ce84f90fab71d463c01a
+      internalID: -4464365827881524659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 464
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d6ea3946d2248448b71b764ca01f7d
+      internalID: -8510198762934382078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 464
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b7b5eba748e1849afabdeb4ec9dcfb
+      internalID: -6320013583945157165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 464
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ae423f018329c4ba782a5a0298685d
+      internalID: 7437979266076710365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 464
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55781df1f0e7eda459e4aa6e77be1832
+      internalID: -294358566489015492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 464
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d032f3de65b3fb449a6eb95d2391fbaf
+      internalID: 113555604812439259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 464
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c07457b784f3a40a01918f119376e4
+      internalID: 4902816437963344120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_67
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 464
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6203f668f524b4ea19e9e2d0e0256d
+      internalID: 2707037610417076014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 464
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef92e19c51aba74daaf1a2b93e3281b
+      internalID: -2639508191446786540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_69
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 464
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718013bad51188a4394c79351104a621
+      internalID: 5671816610771765828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581f4efbc0a400a42bdd41bfab25e3ef
+      internalID: 3247399716836258483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d276f2164f401c840ab60d84fbf14d76
+      internalID: 189593987771994740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814c7b8e184e28d4d8eacfb215d7ced8
+      internalID: 1507938669475413457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b46395cedf6614eb880bffc019ea9f
+      internalID: 6738498326870152916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855cc473657bd6b42a1c8ded85c72426
+      internalID: 7310088681487102824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_75
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec192b01d56f4d3469f05d1de665fac0
+      internalID: 2387382566403016896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ed880725e07854fb825b8330b755f9
+      internalID: -1527056069948597871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_77
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19cf0b36e50e084097d71a2502391e5
+      internalID: 3520831037431966262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a9b374c39a5ac49b3989dc51cdc32a
+      internalID: 5713100860359615261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_79
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 384
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1a6233b5e33d04ea4b4d95ef2a2e05
+      internalID: -3577332756167284639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5894b4ca5646e9643a0a305be4196207
+      internalID: -288189326219684729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c5148cbdfcb7e4cb118bfd838f5458
+      internalID: 2550194474288673174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a397450767105549a3721a6cc79bb10
+      internalID: 6241569551140049278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 304
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e85ccdf09bdd14ca4ba397694a89f5
+      internalID: -2455499384120771773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 304
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2656c11af9020174ba01365947b5fc2d
+      internalID: -5698035630436154206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_85
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 304
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd9fa920e4e36b4595b154d88d2311f
+      internalID: -1113556579945335925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_86
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 304
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa110e52a55434f88233f694a7616e
+      internalID: 274874584751300529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_87
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 304
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0187c5e8272df854081e319510095513
+      internalID: -9215436177119642851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_88
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 304
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ced76c5da4a8c44a8ae3373930d7fc
+      internalID: 3273900217441178789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_89
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 304
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546259269a4b79c4d9191d3574625074
+      internalID: 8271425775236676060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bb1ca61d87c814a89bfaece8b449c3
+      internalID: -7877876645482016411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdf64ba7e76a4640892bc681e1ccdd3
+      internalID: -1600639642860755778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3eb66b55c2eb140af68a8219106a53
+      internalID: 3156787214138103625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaa3eda57b011041b24dd77311df87c
+      internalID: 4610910646018417316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced68e4f196d6454aacd871b7f3a7381
+      internalID: -7347013291494853250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033584872db11864e9aa7260b81f658e
+      internalID: 3534762764878734426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_96
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 224
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c07495e2c561934286df5d145041402
+      internalID: 2427781677045334743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_97
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 224
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce56a3b035dc0224d8de4842e2c0e7be
+      internalID: -1416628597840527488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_98
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 224
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f539b943ffad10b4d9bc80cd86a1acaf
+      internalID: -3371907575957278567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_99
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 224
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861f33750c74c664b997b69bab30d603
+      internalID: 6227048263844635958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 19b8c02bbe26a9242806b32907c8d96e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+
+{
+    "name" : "games.artees.fps-counter",
+    "version" : "0.1.5",
+    "displayName" : "FPS Counter",
+    "description" : "A simple FPS counter for Unity",
+    "unity"       : "2019.2",
+    "unityRelease" : "",
+    "dependencies" : {
+        "com.unity.ugui" : "1.0.0"
+    },
+    "keywords"     : [
+    ],
+    "author"       : {
+        "name" : "Artees",
+        "email" : "yo@artees.games",
+        "url"   : "https://github.com/Artees/FPS-Counter"
+    }
+}
