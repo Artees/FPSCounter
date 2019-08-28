@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9b45659d9d54a21489f23f6fa9a3ebe2
+guid: f41c32c7cb3ef5149ba43700b6df9d1b
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -11,8 +11,8 @@ ScriptedImporter:
   name: games.artees.fps-counter
   version: 0.1.5
   displayName: FPS Counter
-  description: 
-  unity: 2019.1
+  description: A simple FPS counter for Unity
+  unity: 2019.2
   unityRelease: 
   dependencies:
     keyValuePairs:
@@ -22,5 +22,5 @@ ScriptedImporter:
   author:
     name: Artees
     email: yo@artees.games
-    url: 
+    url: https://github.com/Artees/FPSCounter
   autoExportJson: 1
