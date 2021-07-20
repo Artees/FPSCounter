@@ -23,12 +23,13 @@ namespace Artees.FPSCounter
         {
             const float smoothness = 0.8f;
             const float sharpness = 1f - smoothness;
+            var wait = new WaitForEndOfFrame(); // Cached to avoid GC
             var smoothUnscaledDeltaTime = 1f / 60f;
             while (gameObject)
             {
                 for (var i = 0; i < 60; i++)
                 {
-                    yield return new WaitForEndOfFrame();
+                    yield return wait;
                     smoothUnscaledDeltaTime = smoothness * smoothUnscaledDeltaTime + sharpness * Time.deltaTime;
                 }
 
